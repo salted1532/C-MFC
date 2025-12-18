@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\seoil\source\repos\makeDLL\makeDLL\dllmain.cpp(22,1): warning C4273: 'add': dll 연결이 일치하지 않습니다.
+C:\Users\seoil\source\repos\makeDLL\makeDLL\MathLibrary.h(3,38): message : 'add'의 이전 정의를 참조하십시오.
+C:\Users\seoil\source\repos\makeDLL\makeDLL\dllmain.cpp(28,1): warning C4273: 'sub': dll 연결이 일치하지 않습니다.
+C:\Users\seoil\source\repos\makeDLL\makeDLL\MathLibrary.h(4,38): message : 'sub'의 이전 정의를 참조하십시오.
+     C:\Users\seoil\source\repos\makeDLL\Debug\makeDLL.lib 라이브러리 및 C:\Users\seoil\source\repos\makeDLL\Debug\makeDLL.exp 개체를 생성하고 있습니다.
+  makeDLL.vcxproj -> C:\Users\seoil\source\repos\makeDLL\Debug\makeDLL.dll
